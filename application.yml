@@ -1,7 +1,4 @@
 spring:
   application:
      name: Config-Default
-limits-service
-     minimum: 88  
-limits-service
-     maximum: 8888 
+
